@@ -1,2 +1,7 @@
-Working off this tutorial for now
+#Diving into TypeScript by example
+
+###Part 1Working off this tutorial for now
 https://dev.to/ryanworl/building-an-api-backend-with-typescript-and-express---part-one-setup
+
+####Part 2
+https://www.worl.co/2016/12/building-an-api-backend-with-typescript-and-express---part-two-validation/
